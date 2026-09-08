@@ -1,0 +1,752 @@
+[
+  {
+    "id": "JS-01",
+    "title": "Limit country name length",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-02",
+    "title": "Validate country currency letters",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-03",
+    "title": "Limit client display and legal names",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-04",
+    "title": "Limit worker name length",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-05",
+    "title": "Limit compliance document name length",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-06",
+    "title": "Reject undefined compliance document types",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-07",
+    "title": "Reject undefined contract status filters",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-08",
+    "title": "Reject future worker birth dates",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-09",
+    "title": "Filter countries by currency",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-10",
+    "title": "Filter countries by active state",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-11",
+    "title": "Find clients by name prefix",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-12",
+    "title": "Find workers by name prefix",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-13",
+    "title": "Order same-name clients consistently",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-14",
+    "title": "Order same-name workers consistently",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-15",
+    "title": "Filter contracts by country",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-16",
+    "title": "Filter invoices by payroll run",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-17",
+    "title": "Filter payroll runs by year and month",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-18",
+    "title": "Filter FX rates by effective date range",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-19",
+    "title": "Show only required onboarding items",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-20",
+    "title": "Filter a worker's documents by type",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-21",
+    "title": "Fetch one worker document",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-22",
+    "title": "Filter salary history through a date",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-23",
+    "title": "Filter compliance expiry reports by country",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-24",
+    "title": "Filter headcount reports by country",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "JS-25",
+    "title": "Filter payroll cost reports by run status",
+    "workbook": "16-junior-user-stories.md",
+    "status": "verified",
+    "evidence": [
+      "56/56 JuniorStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "JuniorStoryTests"
+  },
+  {
+    "id": "MS-01",
+    "title": "Client workforce dashboard",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-02",
+    "title": "Worker employment timeline",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-03",
+    "title": "Contract activation readiness",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-04",
+    "title": "Complete onboarding items in one request",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-05",
+    "title": "Contract notes",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-06",
+    "title": "Country onboarding templates",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-07",
+    "title": "Client payslip browser",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-08",
+    "title": "Payslip CSV export",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-09",
+    "title": "Invoice cost breakdown",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-10",
+    "title": "Invoice CSV export",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-11",
+    "title": "Record invoice payments",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-12",
+    "title": "Reverse an invoice payment",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-13",
+    "title": "Outstanding invoice balances and aging",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-14",
+    "title": "Client leave calendar",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-15",
+    "title": "Leave request quote",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-16",
+    "title": "Cancel approved future leave",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-17",
+    "title": "Country holiday calendar",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-18",
+    "title": "Leave allowance adjustments",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-19",
+    "title": "Edit a pending expense claim",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  },
+  {
+    "id": "MS-20",
+    "title": "Withdraw a pending expense claim",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  },
+  {
+    "id": "MS-21",
+    "title": "Monthly client expense summary",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-22",
+    "title": "Benefit selection quote",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-23",
+    "title": "Contract benefit calendar",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-24",
+    "title": "Termination base final-pay preview",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  },
+  {
+    "id": "MS-25",
+    "title": "Amendment comparison preview",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  },
+  {
+    "id": "MS-26",
+    "title": "API key expiration",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-27",
+    "title": "Replace an API key immediately",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "MS-28",
+    "title": "Saved report presets",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  },
+  {
+    "id": "MS-29",
+    "title": "Client approval work queue",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "10/10 MidlevelViewStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "MidlevelViewStoryTests"
+  },
+  {
+    "id": "MS-30",
+    "title": "Pause and resume country hiring",
+    "workbook": "17-midlevel-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "SS-01",
+    "title": "Full payroll simulation",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "8/8 PayrollReliabilityStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "PayrollReliabilityStoryTests"
+  },
+  {
+    "id": "SS-02",
+    "title": "Payslip calculation evidence",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "8/8 PayrollReliabilityStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "PayrollReliabilityStoryTests"
+  },
+  {
+    "id": "SS-03",
+    "title": "Payroll period variance report",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "8/8 PayrollReliabilityStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "PayrollReliabilityStoryTests"
+  },
+  {
+    "id": "SS-04",
+    "title": "Retry-safe payroll completion",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "8/8 PayrollReliabilityStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "PayrollReliabilityStoryTests"
+  },
+  {
+    "id": "SS-05",
+    "title": "Durable background payroll creation",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "8/8 PayrollReliabilityStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "PayrollReliabilityStoryTests"
+  },
+  {
+    "id": "SS-06",
+    "title": "Invoice credit-note ledger",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "SS-07",
+    "title": "Scheduled billing terms and due dates",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "SS-08",
+    "title": "Scheduled management fee rates",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "14/14 WorkflowStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "WorkflowStoryTests"
+  },
+  {
+    "id": "SS-09",
+    "title": "Contract cost-center allocations",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-10",
+    "title": "Cost-center payroll report",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-11",
+    "title": "Validate and commit a worker import",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-12",
+    "title": "Compliance document renewal history",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "4/4 ComplianceConfigurationStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ComplianceConfigurationStoryTests"
+  },
+  {
+    "id": "SS-13",
+    "title": "Country document coverage policies",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "4/4 ComplianceConfigurationStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ComplianceConfigurationStoryTests"
+  },
+  {
+    "id": "SS-14",
+    "title": "Client payroll budgets",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "4/4 ComplianceConfigurationStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ComplianceConfigurationStoryTests"
+  },
+  {
+    "id": "SS-15",
+    "title": "Typed contract custom fields",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "4/4 ComplianceConfigurationStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ComplianceConfigurationStoryTests"
+  },
+  {
+    "id": "SS-16",
+    "title": "Contract decision audit feed",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-17",
+    "title": "Client notification inbox",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-18",
+    "title": "Background client data export",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ExportStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ExportStoryTests"
+  },
+  {
+    "id": "SS-19",
+    "title": "Frozen workforce snapshots and comparison",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "12/12 AdvancedStoryTests tests passed in the correction run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "AdvancedStoryTests"
+  },
+  {
+    "id": "SS-20",
+    "title": "Two-approver expense policy",
+    "workbook": "18-mid-senior-feature-stories.md",
+    "status": "verified",
+    "evidence": [
+      "6/6 ProposalAndExpenseStoryTests tests passed in the pre-correction full run. See verification.md for overall run results and scope."
+    ],
+    "testSuite": "ProposalAndExpenseStoryTests"
+  }
+]

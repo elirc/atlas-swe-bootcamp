@@ -1,0 +1,48 @@
+namespace Atlas.Domain.Entities;
+
+/// <summary>
+/// A client invoice for one completed payroll run: the payroll cost of the
+/// client's workers in that country/month plus Atlas's management fee.
+/// </summary>
+public class Invoice : IVersioned
+{
+    public int Version { get; set; } = 1;
+    public int? PaymentTermDays { get; set; }
+    public DateOnly? DueDate { get; set; }
+    public Guid? BillingTermsId { get; set; }
+    public decimal? ManagementFeeRateApplied { get; set; }
+    public Guid? FeeScheduleId { get; set; }
+    public Guid Id { get; set; } = Guid.NewGuid();
+
+    /// <summary>Human-readable number, e.g. INV-202607-PH-001.</summary>
+    public required string InvoiceNumber { get; set; }
+
+    public required Guid ClientId { get; set; }
+    public Client? Client { get; set; }
+
+    public required Guid PayrollRunId { get; set; }
+    public PayrollRun? PayrollRun { get; set; }
+
+    /// <summary>ISO 4217 currency of the local amounts (the payroll country's currency).</summary>
+    public required string CurrencyCode { get; set; }
+
+    /// <summary>Sum of TotalCost (gross + employer cost + reimbursements) across the client's payslips.</summary>
+    public required decimal PayrollSubtotal { get; set; }
+
+    /// <summary>Client's management fee rate applied to the gross payroll.</summary>
+    public required decimal ManagementFee { get; set; }
+
+    /// <summary>Subtotal + fee in the payroll country's currency.</summary>
+    public required decimal Total { get; set; }
+
+    /// <summary>ISO 4217 currency the client is billed in.</summary>
+    public required string BillingCurrencyCode { get; set; }
+
+    /// <summary>Rate applied to convert Total into the billing currency (1 when identical).</summary>
+    public required decimal FxRateApplied { get; set; }
+
+    /// <summary>Total converted into the billing currency at the period rate, rounded to 2 dp.</summary>
+    public required decimal TotalInBillingCurrency { get; set; }
+
+    public DateTimeOffset IssuedAtUtc { get; set; } = DateTimeOffset.UtcNow;
+}
