@@ -1,4 +1,4 @@
-# atlas-net
+# Atlas SWE Bootcamp
 
 A hands-on C# / .NET 10 backend for growing from junior implementation skills toward independent delivery and senior engineering judgment. The practice domain is an Employer-of-Record (EOR) platform: contracts, payroll, leave, and invoicing.
 
